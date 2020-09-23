@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=think2011&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=think2011&show_icons=true)
