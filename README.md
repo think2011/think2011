@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=think2011&show_icons=true)
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=think2011&show_icons=true" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/think2011">
+    <img src="https://img.shields.io/badge/github-think2011-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://think2011.net">
+    <img src="https://img.shields.io/badge/website-think2011-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://github.com/think2011">
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-think2011&label=visitors&color=grey&style=flat" />
+  </a>
+</p>
