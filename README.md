@@ -25,7 +25,4 @@ Here are some ideas to get you started:
   <a href="https://think2011.net">
     <img src="https://img.shields.io/badge/website-think2011-1BC?logo=react&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/think2011">
-    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-think2011&label=visitors&color=grey&style=flat" />
-  </a>
 </p>
